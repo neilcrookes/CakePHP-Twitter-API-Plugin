@@ -1,0 +1,1 @@
+<?php echo $this->element('status', array('status' => $status)); ?>
