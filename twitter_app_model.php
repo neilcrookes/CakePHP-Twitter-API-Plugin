@@ -74,4 +74,3 @@ class TwitterAppModel extends AppModel {
 
 }
 ?>
-
